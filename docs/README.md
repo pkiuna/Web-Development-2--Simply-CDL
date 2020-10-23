@@ -11,7 +11,7 @@ This project is a WordPress implementation for the company Simply CDL in Kansas 
 Built with **WordPress**.
 
 ### To Do
-- Sitemap.
+Please view the [issues](issues) section.
 
 ### License
 This project is not for commercial or public use. Please use your own WordPress install.
